@@ -28,6 +28,8 @@ that encode the positive transfer in structure propagation.
 Download Paperis coming soon.
 
 # An implementation of SP in MATLAB
+# Data for AWA
+
 
 # Citation
 Guangfeng Lin*, Yajun Chen, Caixia Fan, Fan Zhao, Cuining Jing. Structure propagation for zero-shot learning, Pattern Recognition, Under Review.
