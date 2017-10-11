@@ -1,3 +1,4 @@
+
 # Structure-propagation-for-zero-shot-learning
 Guangfeng Lin*, Yajun Chen, Caixia Fan, Fan Zhao, Cuining Jing.
 
@@ -29,7 +30,8 @@ Download Paperis coming soon.
 
 # An implementation of SP in MATLAB
 # Data for AWA
-http://pan.baidu.com/s/1ge6vNVH
+http://pan.baidu.com/s/1ge6vNVH or https://drive.google.com/file/d/0B5saUCUlbjAwaXhtR2wxblo1WXc/view?usp=sharing 
+
 
 # Citation
 Guangfeng Lin*, Yajun Chen, Caixia Fan, Fan Zhao, Cuining Jing. Structure propagation for zero-shot learning, Pattern Recognition, Under Review.
