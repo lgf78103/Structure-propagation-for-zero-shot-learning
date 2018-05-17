@@ -1,6 +1,6 @@
 
 # Structure-propagation-for-zero-shot-learning
-Guangfeng Lin*, Yajun Chen, Caixia Fan, Fan Zhao, Cuining Jing.
+Guangfeng Lin*, Yajun Chen, Fan Zhao.
 
 # Abstract
 The key of zero-shot learning is how to find the information
@@ -34,4 +34,4 @@ http://pan.baidu.com/s/1ge6vNVH or https://drive.google.com/file/d/0B5saUCUlbjAw
 
 
 # Citation
-Guangfeng Lin*, Yajun Chen, Caixia Fan, Fan Zhao, Cuining Jing. Structure propagation for zero-shot learning.
+Guangfeng Lin*, Yajun Chen, Fan Zhao. Structure propagation for zero-shot learning.
